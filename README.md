@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<i class="devicon-electron-original-wordmark"></i>
+          
+
 <!--
 **brunohermes/brunohermes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
