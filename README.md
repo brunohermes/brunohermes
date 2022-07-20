@@ -1,6 +1,6 @@
 ### Hi there 👋
+![alt text](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
-<i class="devicon-electron-original-wordmark colored"></i>
           
           
 
