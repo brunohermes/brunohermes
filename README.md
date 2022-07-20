@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<i class="devicon-electron-original-wordmark"></i>
+<i class="devicon-electron-original-wordmark colored"></i>
+          
           
 
 <!--
