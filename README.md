@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 ## Who am i, my background.
-My name is Bruno Vinicius Hermes da Costa, i'm a Bachelors Mechatronics Engineering Student, also a multidisciplinary student, whos always curious for new technologies that can improve human life.
-I started tinkering with hardware when i was only 6, got really into computers and when i was 12 started programming my first websites, at the age of 17 i could be considered a 100% self-taught web developer.
-With this background, i decided that i wouldn't stop studying, and that is the main reason why i have so many courses and certificates, i'm seeking constant improvement on my carreer and myself.
-
+My name is Bruno Vinicius Hermes da Costa, i'm a Bachelors Mechatronics Engineering Student, also a multidisciplinary student, 3D artist and Web Developer, whos always curious for new technologies that can improve human life.
+I started tinkering with hardware when i was only 6, got really into computers and when i was 12 started programming my first websites; Then, at the age of 17, started learning web security, and could be considered a 100% self-taught web developer.
+With this background for which i'm proud of it, i decided that i wouldn't stop studying, and that is the main reason why i have so many courses and certificates, i'm seeking constant improvement on my carreer and myself.
 
 
 ## Languages and Technologies i deal with.
